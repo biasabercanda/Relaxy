@@ -52,15 +52,18 @@ Kekurangan : Berbayar, Hanya bisa mendengar suara yang sudah disediakan, tidak b
 Key Competitive Advantage & Unique Value : Jenis musik dan suara yang sangat banyak
 
 Metodologi SDLC
+
 Metodologi yang digunakan:
 Agile model
 
 
 Alasan pemilihan metodologi:
+
 Tidak perlu runtut dalam mengembangkan setiap fitur, kemudian setiap fitur dapat ditambahkan ke dalam produk utama setelah fitur selesai dikembangkan sehingga lebih fleksibel. Selain itu, testing dapat dilakukan kapan saja sehingga dapat dengan mudah mengubah requirement yang digunakan.
 
 
 Perancangan Tahap 1-3 SDLC
+
 a. Tujuan dari produk:
 Aplikasi berbasis web yang dapat digunakan untuk menghasilkan suara atau musik latar belakang yang dapat disesuaikan dengan kondisi sekitar pengguna. Tujuannya supaya pengguna dapat menjadi lebih tenang dan rileks saat sedang bekerja maupun belajar
 
