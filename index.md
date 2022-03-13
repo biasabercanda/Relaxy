@@ -51,13 +51,39 @@ Kelebihan : Terdapat musik-musik tanpa lirik dan suara-suara natural yang bisa d
 Kekurangan : Berbayar, Hanya bisa mendengar suara yang sudah disediakan, tidak bisa mengatur sendiri kombinasi suara yang ingin didengar
 Key Competitive Advantage & Unique Value : Jenis musik dan suara yang sangat banyak
 
+Metodologi SDLC
+Metodologi yang digunakan:
+Agile model
 
 
+Alasan pemilihan metodologi:
+Tidak perlu runtut dalam mengembangkan setiap fitur, kemudian setiap fitur dapat ditambahkan ke dalam produk utama setelah fitur selesai dikembangkan sehingga lebih fleksibel. Selain itu, testing dapat dilakukan kapan saja sehingga dapat dengan mudah mengubah requirement yang digunakan.
 
 
+Perancangan Tahap 1-3 SDLC
+a. Tujuan dari produk:
+Aplikasi berbasis web yang dapat digunakan untuk menghasilkan suara atau musik latar belakang yang dapat disesuaikan dengan kondisi sekitar pengguna. Tujuannya supaya pengguna dapat menjadi lebih tenang dan rileks saat sedang bekerja maupun belajar
 
+b. Pengguna potensial dari produk dan kebutuhan para pengguna tersebut:
+Mahasiswa, pelajar, dan pekerja yang ingin meningkatkan fokus saat bekerja atau belajar
 
+c. Use case diagram
 
+![Relaxy-Use Case](https://user-images.githubusercontent.com/61607747/158070287-d966a0e5-2cd7-4916-b044-83a095dfb4f7.png)
 
+d. Functional requirements untuk use case yang telah dirancang
 
+<img width="469" alt="Screenshot 2022-03-13 235658" src="https://user-images.githubusercontent.com/61607747/158070368-5a351622-b6dc-4d13-9235-b4adda280645.png">
+
+e. Entity relationship diagram
+
+<img width="452" alt="Screenshot 2022-03-13 235819" src="https://user-images.githubusercontent.com/61607747/158070433-189342e7-0f4f-4781-9e9c-a35d926b887a.png">
+
+f. Low-fidelity Wireframe
+
+![Dashboard](https://user-images.githubusercontent.com/61607747/158070481-e81488fe-ac7d-4c12-8611-25d0ea5d9008.png)
+
+g. Gantt-Chart pengerjaan proyek dalam kurun waktu 1 semester
+
+<img width="461" alt="Screenshot 2022-03-14 000029" src="https://user-images.githubusercontent.com/61607747/158070528-28f06329-9e3f-4590-b99d-a7401f9df88f.png">
 
