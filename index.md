@@ -1,8 +1,32 @@
 ## SEMJ (Semester Enam Masih Jomblo):  
 
-Ketua Kelompok:  Sofyan Hidayat Budiyono 19/444072/TK/49268  
-Anggota 1:  Afrizal Fayiz Pradanta 19/446765/TK/49870  
-Anggota 2:  Joseph Gilbert Stalon Simarmata 19/444055/TK/49251
+## Anggota Kelompok :
+<table>
+<thead>
+<tr>
+<th align="center">Nama</th>
+<th align="center">NIM</th>
+<th align="center">Peran</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>Sofyan Hidayat Budiyono</b></td>
+<td align="center">19/444072/TK/49268</td>
+<td align="center">Back End &amp; Cloud Computing</td>
+</tr>
+<tr>
+<td align="center">Afrizal Fayiz Pradanta</td>
+<td align="center">19/446765/TK/49870</td>
+<td align="center">Front End</td>
+</tr>
+<tr>
+<td align="center">Joseph Gilbert Stalon Simarmata</td>
+<td align="center">19/444055/TK/49251</td>
+<td align="center">UI/UX Designer</td>
+</tr>
+</tbody>
+</table>  
 
 "Proyek Senior TI"  
 Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik,Universitas Gadjah Mada  
