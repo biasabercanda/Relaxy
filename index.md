@@ -53,27 +53,27 @@ Mendengarkan musik seperti Soundtrack, klasik, dan jazz adalah pilihan bagus unt
 
 > 1. Noisili<br>
 Jenis Kompetitor : Direct Competitors<br>
->> Jenis Produk : Web & Mobile App<br>
->> Target Customer : Pekerja, pelajar, dan orang-orang yang membutuhkan suara latar belakang untuk aktivitasnya<br>
->> Kelebihan : 28 musik latar belakang, Terdapat fitur playlist, Pengalaman pengguna bagus, Terdapat fitur text editor<br>
->> Kekurangan : Waktu streaming dibatasi untuk free user, Jenis suara yang dapat dipilih dibatasi untuk free user, Perlu membayar untuk menggunakan semua fitur yang tersedia<br>
->> Key Competitive Advantage & Unique Value : Suara dengan kualitas tinggi<br>
+Jenis Produk : Web & Mobile App<br>
+Target Customer : Pekerja, pelajar, dan orang-orang yang membutuhkan suara latar belakang untuk aktivitasnya<br>
+Kelebihan : 28 musik latar belakang, Terdapat fitur playlist, Pengalaman pengguna bagus, Terdapat fitur text editor<br>
+Kekurangan : Waktu streaming dibatasi untuk free user, Jenis suara yang dapat dipilih dibatasi untuk free user, Perlu membayar untuk menggunakan semua fitur yang tersedia<br>
+Key Competitive Advantage & Unique Value : Suara dengan kualitas tinggi<br>
 
 > 2. Whispr<br>
->> Jenis Kompetitor : Direct Competitors<br>
->> Jenis Produk : Web app<br>
->> Target Customer : Pekerja, pelajar, dan orang-orang yang membutuhkan suara latar belakang untuk aktivitasnya<br>
->> Kelebihan : Gratis, Banyak jenis suara yang dapat dipilih, Terdapat fitur untuk vote jenis suara baru<br>
->> Kekurangan : Pengalaman pengguna kurang optimal<br>
->> Key Competitive Advantage & Unique Value : Semua fitur dapat diakses secara gratis<br>
+Jenis Kompetitor : Direct Competitors<br>
+Jenis Produk : Web app<br>
+Target Customer : Pekerja, pelajar, dan orang-orang yang membutuhkan suara latar belakang untuk aktivitasnya<br>
+Kelebihan : Gratis, Banyak jenis suara yang dapat dipilih, Terdapat fitur untuk vote jenis suara baru<br>
+Kekurangan : Pengalaman pengguna kurang optimal<br>
+Key Competitive Advantage & Unique Value : Semua fitur dapat diakses secara gratis<br>
 
 > 3. Spotify<br>
->> Jenis Kompetitor : Indirect Competitors<br>
->> Jenis Produk : Web dan Mobile app<br>
-T>> arget Customer : Pendengar musik<br>
->> Kelebihan : Terdapat musik-musik tanpa lirik dan suara-suara natural yang bisa didengarkan dari spotify<br>
->> Kekurangan : Berbayar, Hanya bisa mendengar suara yang sudah disediakan, tidak bisa mengatur sendiri kombinasi suara yang ingin didengar<br>
->> Key Competitive Advantage & Unique Value : Jenis musik dan suara yang sangat banyak<br>
+Jenis Kompetitor : Indirect Competitors<br>
+Jenis Produk : Web dan Mobile app<br>
+Target Customer : Pendengar musik<br>
+Kelebihan : Terdapat musik-musik tanpa lirik dan suara-suara natural yang bisa didengarkan dari spotify<br>
+Kekurangan : Berbayar, Hanya bisa mendengar suara yang sudah disediakan, tidak bisa mengatur sendiri kombinasi suara yang ingin didengar<br>
+Key Competitive Advantage & Unique Value : Jenis musik dan suara yang sangat banyak<br>
 
 ### Metodologi SDLC
 
