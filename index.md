@@ -52,8 +52,8 @@ Mendengarkan musik seperti Soundtrack, klasik, dan jazz adalah pilihan bagus unt
 ## Analisis Kompetitor:
 
 > 1. Noisili
->> Jenis Kompetitor : Direct Competitors
->> Jenis Produk : Web & Mobile App
+Jenis Kompetitor : Direct Competitors<br>
+>> Jenis Produk : Web & Mobile App<br>
 >> Target Customer : Pekerja, pelajar, dan orang-orang yang membutuhkan suara latar belakang untuk aktivitasnya
 >> Kelebihan : 28 musik latar belakang, Terdapat fitur playlist, Pengalaman pengguna bagus, Terdapat fitur text editor
 >> Kekurangan : Waktu streaming dibatasi untuk free user, Jenis suara yang dapat dipilih dibatasi untuk free user, Perlu membayar untuk menggunakan semua fitur yang tersedia
