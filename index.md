@@ -30,7 +30,7 @@
 
 > "Proyek Senior TI" Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik,Universitas Gadjah Mada  
 
-### Relaxy  
+# Relaxy  
 ## Jenis Produk
 > Aplikasi Web    
 
